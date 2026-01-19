@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hey there! 👋
+
+I’m German, a C++ engineer based in Saint-Petersburg(Russia).
+
+I coding and build whatever I can imagine.
+
+If an idea pops into my head, chances are I’ll build it and ship it.
+
+My main tech stack is C++, QT/QML, PostgreSQL, Cmake, and Docker. My favorite tools are QT, CI/CD.
+
 
 <!--
 **GT1hiy/GT1hiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
